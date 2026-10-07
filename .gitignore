@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# PyInstaller
+build/
+dist/
+*.spec.bak
+
+# opencode / session
+.omo/
+
+# 되돌리기용 백업(시스템별·민감 정보 포함 가능)은 올리지 않습니다
+remediation_backup_*/
